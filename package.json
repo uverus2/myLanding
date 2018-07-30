@@ -1,0 +1,26 @@
+{
+  "name": "landingkons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bulma": "^0.7.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-cache": "^1.0.2",
+    "gulp-clean-css": "^2.0.10",
+    "gulp-concat": "^2.6.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "latest",
+    "gulp-uglify": "latest",
+    "gulp-uglify-es": "^1.0.4",
+    "gulp-watch": "^5.0.0",
+    "sass": "^1.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
