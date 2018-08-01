@@ -6444,6 +6444,9 @@ label.panel-block {
 .tabs {
   margin-top: 2%; }
 
+.warn {
+  color: #ffdd57; }
+
 @media only screen and (min-width: 320px) {
   .none {
     display: none; }
