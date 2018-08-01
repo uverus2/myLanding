@@ -1,0 +1,71 @@
+@media only screen and (min-width : 320px) {
+     .none{
+         display: none;
+     }
+
+     .back{
+        height:430px;
+    
+     }
+
+     .title{
+         font-size: 30px;
+     }
+     .subtitle{
+        font-size: 25px;
+        font-weight: bold;  
+     }
+
+    }
+
+    @media only screen  and (min-width : 420px) {
+        .none{
+            display: block;
+        }
+     
+         .title{
+             font-size: 45px;
+         }
+         .subtitle{
+            font-size:30px;
+         }
+
+
+    }
+
+   
+@media only screen  and (min-width : 768px) {
+
+   .none{
+       display: block;
+   }
+
+    .title{
+        font-size: 55px;
+    }
+    .subtitle{
+       font-size:30px;
+    }
+
+    .back{
+        height: 450px;
+    }
+
+        }
+    
+
+@media only screen  and (min-width : 1064px) {
+        
+    .title{
+        font-size: 55px;
+    }
+    .subtitle{
+       font-size:30px;
+    }
+
+
+        }
+
+
+        
+
