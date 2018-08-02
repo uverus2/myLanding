@@ -34,3 +34,17 @@
 .warn{
     color:rgb(255,56,96);
 }
+
+.ball { 
+    margin-top: 3%;
+    transition: all .2s ease-in-out; 
+    height: 100px;
+    width: 100px;
+}
+.ball:hover { transform: scale(1.1); }
+
+.bullet{
+    list-style-image: url('images/arrow-point-to-right.png');
+    padding: 10px;
+    margin: 10px;
+}
